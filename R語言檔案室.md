@@ -1,7 +1,7 @@
 # R
 studies and techs via RStudio
 ****
-## I. R語言基礎程式教學(Basic Courses)  
+## I. 基礎程式教學(Basic Courses)  
 各Lab檔案內容標示如下：  
 `02 - R語言基本數學運算`  
 `03 - 數值、邏輯與文字`  
@@ -19,3 +19,10 @@ studies and techs via RStudio
 `15 - 流程控制`  
 `16 - 圖表繪製`  
 `17 - 資料庫連結`  
+
+## II. 資料挖掘(Data Mining Records)  
+紀錄過去完成的挖掘code檔:  
+`EWMA管制圖建置`  
+`文字情感分析`
+`回歸分析共線性模擬`
+
