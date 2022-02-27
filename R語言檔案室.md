@@ -23,6 +23,6 @@ studies and techs via RStudio
 ## II. 資料挖掘(Data Mining Records)  
 紀錄過去完成的挖掘code檔:  
 `EWMA管制圖建置`  
-`文字情感分析`
+`文字情感分析`  
 `回歸分析共線性模擬`
 
