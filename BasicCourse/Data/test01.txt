@@ -1,0 +1,6 @@
+Region Population Income Illiteracy 
+Alabama 3615   3624        2.1
+Alaska 365   6315        1.5
+Arizona 2212   4530        1.8
+Arkansas 2110   3378        1.9
+California 21198   5114        1.1

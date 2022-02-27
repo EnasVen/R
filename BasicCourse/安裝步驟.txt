@@ -1,0 +1,26 @@
+1. 至官網下載RGui主程式 https://www.r-project.org/
+點選 Download CRAN https://cran.r-project.org/mirrors.html
+點選台灣鏡像站  https://cran.csie.ntu.edu.tw/
+點選Download R for windows
+點選install R for the first time
+點選Download R 4.0.0 for Windows (84 megabytes, 32/64 bit)
+
+2.下載RStudio主程式 https://rstudio.com/
+點選Download
+點選RStudio Desktop
+點選Windows 10/8/7的exe檔
+
+3.先執行RGui的安裝，後執行RStudi的安裝
+
+4.至Rprofile變更default library安裝路徑
+
+加入以下指令
+#set workind directory
+setwd('C:/Users/proph/Documents/RStudioWorks/Data')
+
+#Rprofile.site
+.libPaths(c('C:/Users/proph/Documents/RStudioWorks/Packages', .libPaths()))
+
+#Auto Message
+ .First <- function() cat("\n   你好啊布萊恩 ! Welcome to R!\n\n")
+ .Last <- function()  cat("\n   Goodbye!\n\n")
