@@ -26,3 +26,8 @@ studies and techs via RStudio
 `文字情感分析`  
 `回歸分析共線性模擬`
 
+## III. 遊戲鑽研(Game Research)
+玩遊戲時經歷的分析過程與模擬技巧:
+‵百家樂數據模擬`
+‵轉蛋遊戲期望抽數計算`
+
