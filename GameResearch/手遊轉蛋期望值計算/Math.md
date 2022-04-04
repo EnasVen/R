@@ -32,6 +32,7 @@ OK，2種情況都討論完畢後，我們可以得到抽卡數期望值為 :
 <img src="https://latex.codecogs.com/gif.image?\inline&space;\dpi{110}=&space;\frac{1-(1-p)^{n}}{p}" title="https://latex.codecogs.com/gif.image?\inline \dpi{110}= \frac{1-(1-p)^{n}}{p}" />  
 上式即為code內自訂函數的形式。
   
+## Another Way #  
 那麼，這麼複雜的推導是否有更簡潔的方式?  
 我們知道X是一個非負的隨機變數(non-negative r.v.)  
 因此根據機率論，我們會得到:    
